@@ -1,0 +1,31 @@
+
+body {
+  font-family: Verdana, Arial, sans-serif;
+  margin-left: 16px;
+  background-image: linear-gradient(to right, purple,aqua);
+}
+
+h1 { margin-bottom: -28px; }
+
+p {
+  border-top: solid 14px lightseagreen;
+  padding-top: 16px;
+}
+
+#lista1 li{
+    border: 1px solid black;
+    display: inline;
+    width: 100px;
+    margin: 50px;
+    padding: 30px;
+
+}
+#lista2 li{
+    border: 1px solid black;
+    display: inline-block;
+    width: 100px;
+    margin: 50px;
+    padding: 30px;
+
+}
+
